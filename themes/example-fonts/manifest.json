@@ -1,9 +1,8 @@
 {
 	"format": 1,
-	"id": "com.example.fonts",
-	"name": "Example Fonts",
-	"description": "Example font packs for Valenced.",
-	"author": "Your Name",
+	"id": "com.jaiden.indieflower",
+	"name": "Indie Flower",
+	"description": "Indie Flower font for Valenced.",	"author": "Jaiden",
 	"version": "1.0.0",
 	"dependencies": {
 		"valenced.api": {
